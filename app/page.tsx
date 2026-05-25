@@ -272,9 +272,11 @@ export default function HomePage() {
                 },
               ].map((p) => (
                 <div key={p.name} className="flex-1 bg-card rounded-2xl border border-border p-8 flex flex-col items-center text-center shadow-sm">
-                  <div className={`w-20 h-20 ${p.color} rounded-2xl flex items-center justify-center text-white text-xl font-black mb-4`}>
-                    {p.short}
-                  </div>
+                  <img
+                  src={p.name.includes("INSPÉ") ? "/inspe-logo.png" : "/estia-logo.png"}
+                  alt={p.name}
+                  className="w-20 h-20 object-contain bg-white rounded-2xl p-2 shadow-sm mb-4"
+                  />
                   <h3 className="font-bold text-base mb-2">{p.name}</h3>
                   <p className="text-sm text-muted-foreground leading-relaxed">{p.sub}</p>
                   <div className="mt-4 flex items-center gap-1.5 text-xs text-primary font-medium">
