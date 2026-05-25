@@ -12,7 +12,7 @@ export function Footer() {
                 <Leaf className="w-4 h-4 text-white" />
               </div>
               <span className="font-bold text-lg">
-                <span className="text-primary">Eco</span>Trajet École
+                <span className="text-primary">Traj'</span>École
               </span>
             </div>
             <p className="text-sm text-white/60 leading-relaxed max-w-xs">
