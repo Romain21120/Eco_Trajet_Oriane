@@ -30,14 +30,22 @@ export function Footer() {
             <h3 className="font-semibold text-sm text-white/80 uppercase tracking-wide mb-4">Partenaires</h3>
             <div className="space-y-3">
               <div className="flex items-center gap-3 p-3 rounded-lg bg-white/5 border border-white/10">
-                <div className="w-8 h-8 bg-inst-blue rounded flex items-center justify-center text-xs font-bold text-white">IN</div>
+                <img 
+                  src="/inspe-logo.png" 
+                  alt="INSPÉ Dijon" 
+                  className="w-10 h-10 object-contain bg-white rounded p-1" 
+                  />
                 <div>
                   <div className="text-sm font-medium text-white">INSPÉ Dijon</div>
                   <div className="text-xs text-white/50">Bourgogne-Franche-Comté</div>
                 </div>
               </div>
               <div className="flex items-center gap-3 p-3 rounded-lg bg-white/5 border border-white/10">
-                <div className="w-8 h-8 bg-primary rounded flex items-center justify-center text-xs font-bold text-white">ES</div>
+                <img 
+                src="/estia-logo.png" 
+                alt="ESTIA Bidart" 
+                className="w-10 h-10 object-contain bg-white rounded p-1" 
+                  />
                 <div>
                   <div className="text-sm font-medium text-white">ESTIA Bidart</div>
                   <div className="text-xs text-white/50">École d&apos;ingénieurs</div>
