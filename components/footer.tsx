@@ -68,7 +68,7 @@ export function Footer() {
 
         <div className="border-t border-white/10 mt-8 pt-6 flex flex-col md:flex-row items-center justify-between gap-2">
           <p className="text-xs text-white/40">
-            © 2025 Traj'École — Projet pédagogique — maquette
+            © 2026 Traj'École — Projet pédagogique — maquette
           </p>
           <p className="text-xs text-white/40">
             Développé en partenariat avec l&apos;INSPÉ Dijon & l&apos;ESTIA Bidart
