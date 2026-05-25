@@ -18,7 +18,7 @@ export function Header() {
               <Leaf className="w-4 h-4 text-primary-foreground" />
             </div>
             <span className="font-bold text-lg text-foreground">
-              <span className="text-primary">Eco</span>Trajet
+              <span className="text-primary">Traj'</span>
               <span className="text-secondary"> École</span>
             </span>
           </Link>

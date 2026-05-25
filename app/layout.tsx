@@ -9,7 +9,7 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 })
 
 export const metadata: Metadata = {
-  title: 'EcoTrajet École — Mobilité scolaire durable',
+  title: "Traj'École — Mobilité scolaire durable",
   description:
     'Plateforme gratuite de covoiturage et de trajets accompagnés pour établissements scolaires, parents, élèves et enseignants.',
 }

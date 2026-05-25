@@ -119,7 +119,7 @@ export default function HomePage() {
                 <span className="text-eco-green-light">plus écologiques</span>.
               </h1>
               <p className="text-lg text-white/70 leading-relaxed mb-8 max-w-xl">
-                EcoTrajet École connecte parents, élèves et enseignants pour organiser des trajets partagés, sécurisés et respectueux de l&apos;environnement.
+                Traj'École connecte parents, élèves et enseignants pour organiser des trajets partagés, sécurisés et respectueux de l&apos;environnement.
               </p>
               <div className="flex flex-col sm:flex-row gap-3">
                 <Link href="/#principe">
@@ -161,7 +161,7 @@ export default function HomePage() {
                 Une mobilité scolaire repensée
               </h2>
               <p className="mt-3 text-muted-foreground max-w-xl mx-auto leading-relaxed">
-                EcoTrajet École facilite l&apos;organisation des trajets domicile-école pour toute la communauté scolaire.
+                Traj'École facilite l&apos;organisation des trajets domicile-école pour toute la communauté scolaire.
               </p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

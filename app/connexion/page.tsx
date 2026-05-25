@@ -76,7 +76,7 @@ export default function ConnexionPage() {
               </div>
               <h1 className="text-2xl font-extrabold mb-1">Connexion</h1>
               <p className="text-sm text-muted-foreground">
-                Accédez à votre espace EcoTrajet École
+                Accédez à votre espace Traj'École
               </p>
             </div>
 

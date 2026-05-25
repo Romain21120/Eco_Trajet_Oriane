@@ -4,7 +4,7 @@
 @custom-variant dark (&:is(.dark *));
 
 :root {
-  /* EcoTrajet École — Vert écologique + Bleu institutionnel */
+  /* Traj'École — Vert écologique + Bleu institutionnel */
   --background: oklch(0.98 0.004 150);
   --foreground: oklch(0.18 0.02 240);
 
