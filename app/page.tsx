@@ -41,12 +41,7 @@ const features = [
     desc: 'Aucun enfant ne rentre seul. Visualisez les chemins sécurisés et le groupe d\'élèves qui passe par votre rue.',
     color: 'bg-inst-blue-light/40 text-secondary',
   },
-  {
-    icon: Euro,
-    title: '100 % Gratuit',
-    desc: 'La plateforme est entièrement gratuite pour les établissements, les parents et les élèves.',
-    color: 'bg-amber-50 text-amber-700',
-  },
+  
 ]
 
 const audiences = [
