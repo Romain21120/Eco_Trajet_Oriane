@@ -72,7 +72,7 @@ export function DashboardSidebar({ profile, userName = 'Utilisateur' }: SidebarP
         </div>
         {!collapsed && (
           <span className="font-bold text-sm">
-            <span className="text-primary">Eco</span>Trajet École
+            <span className="text-primary">Traj'</span>École
           </span>
         )}
       </div>
