@@ -73,6 +73,9 @@ export function Footer() {
           <p className="text-xs text-white/40">
             Développé en partenariat avec l&apos;INSPÉ Dijon & l&apos;ESTIA Bidart
           </p>
+          <p className="text-xs text-white/40">
+            CANONNE Oriane&apos;SCHMITTE Naël &apos;MIRAUD Roland
+          </p>
         </div>
       </div>
     </footer>
