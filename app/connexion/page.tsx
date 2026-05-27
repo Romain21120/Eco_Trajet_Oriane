@@ -26,13 +26,7 @@ const profiles: { id: Profile; label: string; desc: string; icon: React.ElementT
     icon: Users,
     redirect: '/dashboard/parent',
   },
-  {
-    id: 'admin',
-    label: 'Administration',
-    desc: 'Gérez l\'établissement, les utilisateurs et les statistiques',
-    icon: Building2,
-    redirect: '/dashboard/admin',
-  },
+ 
 ]
 
 export default function ConnexionPage() {
