@@ -6,7 +6,7 @@ import { Leaf, Footprints, Bike, Zap, Car, MapPin, Users, Filter, ChevronLeft, T
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
 
-type FilterMode = 'tous' | 'pied' | 'velo' | 'trottinette' | 'voiture'
+type FilterMode = 'tous' | 'pied' | 'velo' | 'trottinette' 
 
 const modeFilters: { id: FilterMode; label: string; icon: React.ElementType; color: string; activeColor: string }[] = [
   { id: 'tous', label: 'Tous', icon: Filter, color: 'bg-muted text-muted-foreground', activeColor: 'bg-foreground text-white' },

@@ -23,7 +23,7 @@ const mesTrajets = [
   {
     id: '1',
     type: 'voiture',
-    depart: 'Domicile - 12 Rue Paulmy, Bayonne',
+    depart: 'Domicile -  Rue Paulmy, Bayonne',
     arrivee: 'Ecole Jules Ferry',
     horaire: '07:45',
     jours: ['Lun', 'Mar', 'Mer', 'Jeu', 'Ven'],
