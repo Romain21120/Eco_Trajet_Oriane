@@ -235,7 +235,7 @@ export default function CovoituragePage() {
               <div className="relative flex-1">
                 <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-muted-foreground" />
                 <Input
-                  placeholder="Rechercher par nom ou adresse..."
+                  placeholder="Rechercher par nom ou par lieu ..."
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                   className="pl-10"
@@ -376,7 +376,7 @@ export default function CovoituragePage() {
               <CardContent className="space-y-4">
                 <div>
                   <Label htmlFor="depart">Adresse de depart</Label>
-                  <Input id="depart" placeholder="Ex: 15 Rue des Lilas, Anglet" />
+                  <Input id="depart" placeholder="Ex:  Rue des Lilas, Anglet" />
                 </div>
                 <div>
                   <Label htmlFor="arrivee">Ecole de destination</Label>
