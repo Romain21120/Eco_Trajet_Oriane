@@ -13,8 +13,7 @@ const modeFilters: { id: FilterMode; label: string; icon: React.ElementType; col
   { id: 'pied', label: 'À pied', icon: Footprints, color: 'bg-muted text-muted-foreground', activeColor: 'bg-primary text-white' },
   { id: 'velo', label: 'Vélo', icon: Bike, color: 'bg-muted text-muted-foreground', activeColor: 'bg-secondary text-white' },
   { id: 'trottinette', label: 'Trottinette', icon: Zap, color: 'bg-muted text-muted-foreground', activeColor: 'bg-amber-500 text-white' },
-  { id: 'voiture', label: 'Voiture', icon: Car, color: 'bg-muted text-muted-foreground', activeColor: 'bg-rose-500 text-white' },
-]
+  ]
 
 const chemins = [
   { id: 1, nom: 'Rue des Roses → Lycée', mode: 'pied' as FilterMode, eleves: 8, distance: '1.2 km', temps: '15 min', populaire: true },
