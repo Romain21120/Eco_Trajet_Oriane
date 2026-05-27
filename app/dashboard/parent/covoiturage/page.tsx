@@ -375,7 +375,7 @@ export default function CovoituragePage() {
               </CardHeader>
               <CardContent className="space-y-4">
                 <div>
-                  <Label htmlFor="depart">Adresse de depart</Label>
+                  <Label htmlFor="depart">Point de depart</Label>
                   <Input id="depart" placeholder="Ex:  Rue des Lilas, Anglet" />
                 </div>
                 <div>
