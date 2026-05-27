@@ -19,7 +19,7 @@ const chemins = [
   { id: 1, nom: 'Rue des Roses → Lycée', mode: 'pied' as FilterMode, eleves: 8, distance: '1.2 km', temps: '15 min', populaire: true },
   { id: 2, nom: 'Avenue Foch → Lycée', mode: 'velo' as FilterMode, eleves: 5, distance: '2.4 km', temps: '10 min', populaire: true },
   { id: 3, nom: 'Boulevard Nord → Lycée', mode: 'trottinette' as FilterMode, eleves: 4, distance: '1.8 km', temps: '9 min', populaire: false },
-  { id: 4, nom: 'Quartier Est → Lycée', mode: 'voiture' as FilterMode, eleves: 12, distance: '5.2 km', temps: '12 min', populaire: true },
+  { id: 4, nom: 'Quartier Est → Lycée', mode: 'velo' as FilterMode, eleves: 12, distance: '5.2 km', temps: '12 min', populaire: true },
   { id: 5, nom: 'Résidence des Pins → Lycée', mode: 'pied' as FilterMode, eleves: 3, distance: '0.9 km', temps: '11 min', populaire: false },
   { id: 6, nom: 'Parc des Sports → Lycée', mode: 'velo' as FilterMode, eleves: 6, distance: '3.1 km', temps: '13 min', populaire: false },
 ]
